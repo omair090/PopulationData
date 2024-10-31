@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "ID State": "1",
+      "State": "Mock State 1",
+      "ID Year": 2023,
+      "Population": 500000,
+      "Slug State": "mock-state-1"
+    },
+    {
+      "ID State": "2",
+      "State": "Mock State 2",
+      "ID Year": 2023,
+      "Population": 1000000,
+      "Slug State": "mock-state-2"
+    },
+    {
+      "ID State": "3",
+      "State": "Mock State 3",
+      "ID Year": 2023,
+      "Population": 1500000,
+      "Slug State": "mock-state-3"
+    }
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "ID Nation": "1",
+      "Nation": "Mock Nation 1",
+      "ID Year": 2023,
+      "Population": 1000000,
+      "Slug Nation": "mock-nation-1"
+    },
+    {
+      "ID Nation": "2",
+      "Nation": "Mock Nation 2",
+      "ID Year": 2023,
+      "Population": 2000000,
+      "Slug Nation": "mock-nation-2"
+    },
+    {
+      "ID Nation": "3",
+      "Nation": "Mock Nation 3",
+      "ID Year": 2023,
+      "Population": 3000000,
+      "Slug Nation": "mock-nation-3"
+    }
+  ]
+}
+
